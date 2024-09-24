@@ -1,0 +1,15 @@
+{
+  "bg": "#1a1a2e",
+  "bg2": "#16213e",
+  "text": "#e0e0e0",
+  "link": "#ff6b6b",
+  "headers": "#4cc9f0",
+  "font": {
+    "family": "Roboto",
+    "url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+  },
+  "headerFont": {
+    "family": "Orbitron",
+    "url": "https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap"
+  }
+}
