@@ -21,8 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI=false react-scripts build",
-    "postinstall": "npm run build"
+    "build": "CI=false react-scripts build && cp public/manifest.json build/",
+    "postbuild": "ls -R build"
   },
   "eslintConfig": {
     "extends": [
